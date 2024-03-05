@@ -34,7 +34,7 @@
 │ ├── Train.csv # 머신러닝 학습용 데이터
 │ ├── Test.csv # 머신러닝 테스트용 데이터
 │ ├── sample_submission.csv # 최종 제출 샘플용 데이터
-             ObesityDataset.csv # 원본 데이터
+│ ├── ObesityDataset.csv # 원본 데이터
 │ 
 ├── images # 이미지 폴더
 │ ├── FlowChart.png
