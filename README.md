@@ -14,19 +14,19 @@
 - [Kaggle](https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluster)
 ---
 ### Train.csv 주요 칼럼
--Weight : 39 ~ 165 몸무게
--family_history_with_overweight- : 과체중 가족력
--FAVC- : 열량이 높은 음식의 섭취 빈도
--FCVC- : 채소 섭취 빈도
--NCP- :주식수
--CAEC- :식사 간 음식 섭취
--CH2O- : 1일 물 섭취량
--SCC- : 칼로리 소모량 모니터링
--FAF- : 신체활동 빈도
--TUE- : 전자 기기 사용 시간
--CALC- : 알코올 섭취량
--MTRANS- : 교통수단 이용
--NObeyesdad- : 체형
+- Weight : 39 ~ 165 몸무게
+- family_history_with_overweight- : 과체중 가족력
+- FAVC- : 열량이 높은 음식의 섭취 빈도
+- FCVC- : 채소 섭취 빈도
+- NCP- :주식수
+- CAEC- :식사 간 음식 섭취
+- CH2O- : 1일 물 섭취량
+- SCC- : 칼로리 소모량 모니터링
+- FAF- : 신체활동 빈도
+- TUE- : 전자 기기 사용 시간
+- CALC- : 알코올 섭취량
+- MTRANS- : 교통수단 이용
+- NObeyesdad- : 체형
 ---
 ### 구조
 ```
@@ -71,3 +71,4 @@
 <p align="center">
    <img src="https://img.shields.io/badge/language-python-blue?style"/>
 </p>
+
