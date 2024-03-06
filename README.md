@@ -59,7 +59,7 @@
 - **matplotlib==3.6.0**
 - **Seaborn==0.13.2**
 #### 머신러닝
-- ** lightgbm==4.3.0**
+- **lightgbm==4.3.0**
 - **xgboost==2.0.3**
 - **scikit-learn==1.2.2**
 ---
